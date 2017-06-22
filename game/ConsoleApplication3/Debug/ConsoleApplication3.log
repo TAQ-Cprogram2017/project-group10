@@ -1,0 +1,6 @@
+﻿  TwentyFourPoints.cpp
+d:\project\twentyfourpoints.cpp(104): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\project\twentyfourpoints.cpp(106): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\project\twentyfourpoints.cpp(130): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication3.vcxproj -> D:\project\game\Debug\game.exe
+  ConsoleApplication3.vcxproj -> D:\project\game\Debug\game.pdb (Full PDB)
